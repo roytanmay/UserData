@@ -1,0 +1,14 @@
+.button {
+  background-color: rgb(167, 4, 167);
+  color: antiquewhite;
+  border: none;
+  padding: 0.25rem 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.button:hover,
+.button:active {
+  background: #741188;
+  border-color: #741188;
+}

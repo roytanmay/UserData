@@ -1,0 +1,17 @@
+.userList {
+  margin: 2rem auto;
+  width: 90%;
+  max-width: 40rem;
+}
+
+.userList ul {
+  list-style: none;
+  padding: 1rem;
+}
+
+.user {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin: 1rem 0;
+}
